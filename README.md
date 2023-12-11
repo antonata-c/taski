@@ -33,7 +33,7 @@ sudo apt install nginx -y
 sudo systemctl start nginx
 sudo nano /etc/nginx/sites-enabled/default 
 ```
-- Запишите новые настройки для блока server проекта foodgram:
+- Запишите новые настройки для блока server проекта taski:
 ```text
 server {
         server_name ваш_домен;
