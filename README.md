@@ -1,4 +1,3 @@
-![Main kittygram workflow](https://github.com/antonata-c/taski/actions/workflows/main.yml/badge.svg?event=push)
 `Python` `Django` `Django REST Framework` `PostgreSQL` `Nginx` `Gunicorn` `Docker` `Docker Compose` `JS`
 ##  Taski
 ### Описание
