@@ -11,13 +11,13 @@ ssh -i путь_до_SSH_ключа/название_файла_с_SSH_ключ�
 ```
 Клонируйте проект на сервер и установите Docker Compose
 ```
-git clone git@github.com:antonata-c/taski-docker.git
+git clone git@github.com:antonata-c/taski.git
 sudo apt update
 sudo apt install curl
 curl -fsSL https://get.docker.com -o get-docker.sh
 sudo sh get-docker.sh
 sudo apt install docker-compose 
-cd taski-docker/backend/
+cd taski/backend/
 ```
 В директории `gateway`, выполняем следующие команды
 ```
