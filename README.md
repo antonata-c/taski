@@ -1,9 +1,19 @@
-`Python` `Django` `Django REST Framework` `PostgreSQL` `Nginx` `Gunicorn` `Docker` `Docker Compose` `JS`
 ##  Taski
 ### Описание
 Taski - Приложение для планирования задач. Задачи можно добавлять, изменять, удалять
 и переводить из группы "незавершённые" в "завершённые". Деплой производится на удаленный сервер.
 ***
+### Используемые технологии::
+- ***Python 3.8***
+- ***Django***
+- ***Django REST Framework***
+- ***Gunicorn***
+- ***Nginx***
+- ***PostgreSQL***
+- ***Docker***
+- ***Docker Compose***
+- ***React***
+
 ### Развертывание проекта
 Подключитесь к удалённому серверу
 ```
